@@ -1,0 +1,17 @@
+C:\Users\Filip\source\repos\Calendario\Calendario\bin\Debug\net6.0-windows\Calendario.exe
+C:\Users\Filip\source\repos\Calendario\Calendario\bin\Debug\net6.0-windows\Calendario.deps.json
+C:\Users\Filip\source\repos\Calendario\Calendario\bin\Debug\net6.0-windows\Calendario.runtimeconfig.json
+C:\Users\Filip\source\repos\Calendario\Calendario\bin\Debug\net6.0-windows\Calendario.dll
+C:\Users\Filip\source\repos\Calendario\Calendario\bin\Debug\net6.0-windows\Calendario.pdb
+C:\Users\Filip\source\repos\Calendario\Calendario\obj\Debug\net6.0-windows\Calendario.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\Calendario\Calendario\obj\Debug\net6.0-windows\Calendario.Form1.resources
+C:\Users\Filip\source\repos\Calendario\Calendario\obj\Debug\net6.0-windows\Calendario.csproj.GenerateResource.cache
+C:\Users\Filip\source\repos\Calendario\Calendario\obj\Debug\net6.0-windows\Calendario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\source\repos\Calendario\Calendario\obj\Debug\net6.0-windows\Calendario.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\Calendario\Calendario\obj\Debug\net6.0-windows\Calendario.AssemblyInfo.cs
+C:\Users\Filip\source\repos\Calendario\Calendario\obj\Debug\net6.0-windows\Calendario.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Calendario\Calendario\obj\Debug\net6.0-windows\Calendario.dll
+C:\Users\Filip\source\repos\Calendario\Calendario\obj\Debug\net6.0-windows\refint\Calendario.dll
+C:\Users\Filip\source\repos\Calendario\Calendario\obj\Debug\net6.0-windows\Calendario.pdb
+C:\Users\Filip\source\repos\Calendario\Calendario\obj\Debug\net6.0-windows\Calendario.genruntimeconfig.cache
+C:\Users\Filip\source\repos\Calendario\Calendario\obj\Debug\net6.0-windows\ref\Calendario.dll
